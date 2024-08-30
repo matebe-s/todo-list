@@ -44,19 +44,11 @@ body{
   }
 
   .add-btn, .delete-btn {
-    width: 15%;
+    width: 25%;
+    padding-top: 6px;
+    padding-bottom: 6px;
   }
   body {
-    margin-bottom: 100px;
-  }
-}
-
-@media (max-width: 450px) {
-  .name-input, .dueDate-input {
-    font-size: 13px;
-  }
-
-  .add-btn, .delete-btn {
-    font-size: 13px;
+    margin-bottom: 50px;
   }
 }
