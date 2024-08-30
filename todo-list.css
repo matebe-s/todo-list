@@ -1,7 +1,8 @@
 body{
-  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-family: Roboto,Arial, Helvetica, sans-serif;
   margin-bottom: 50px;
-}
+  }
+
 .todo-grid,.input-div{
   display: grid;
   grid-template-columns: 300px 250px 100px;
